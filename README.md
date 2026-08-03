@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi there 👋 I'm Ithar
 
-<!--
-**itharhaboul/itharhaboul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student in Computer Science from Algeria, passionate about software development and continuously learning new technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Master's student in Computer Science
+* 💻 Interested in Full-Stack Development
+* 🌱 Currently learning TypeScript, Node.js, React, PostgreSQL, and Supabase
+* 🤖 Interested in Artificial Intelligence and Cybersecurity
+* 📚 Always learning and building new projects
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+* JavaScript
+* TypeScript
+* Java
+* Python
+* SQL
+
+**Frontend**
+
+* React
+* HTML
+* CSS
+* Vite
+
+**Backend**
+
+* Node.js
+* Express
+
+**Database**
+
+* PostgreSQL
+* Supabase
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+* Docker
+
+## 📈 Current Goals
+
+* Build scalable full-stack applications
+* Improve software architecture skills
+* Learn cloud technologies
+* Contribute to open-source projects
+
+## 📫 Connect with Me
+
+* GitHub: https://github.com/your-username
+* LinkedIn: *(Add your profile if available)*
+
+---
+
+*"Learning never stops."* 🚀
