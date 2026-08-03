@@ -51,11 +51,5 @@ I'm a Master's student in Computer Science from Algeria, passionate about softwa
 * Learn cloud technologies
 * Contribute to open-source projects
 
-## 📫 Connect with Me
-
-* GitHub: https://github.com/your-username
-* LinkedIn: *(Add your profile if available)*
-
----
 
 *"Learning never stops."* 🚀
