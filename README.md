@@ -44,12 +44,3 @@ I'm a Master's student in Computer Science from Algeria, passionate about softwa
 * VS Code
 * Docker
 
-## 📈 Current Goals
-
-* Build scalable full-stack applications
-* Improve software architecture skills
-* Learn cloud technologies
-* Contribute to open-source projects
-
-
-*"Learning never stops."* 🚀
