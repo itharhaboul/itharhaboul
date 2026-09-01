@@ -10,37 +10,5 @@ I'm a Master's student in Computer Science from Algeria, passionate about softwa
 * 🤖 Interested in Artificial Intelligence and Cybersecurity
 * 📚 Always learning and building new projects
 
-## 🛠️ Tech Stack
 
-**Languages**
-
-* JavaScript
-* TypeScript
-* Java
-* Python
-* SQL
-
-**Frontend**
-
-* React
-* HTML
-* CSS
-* Vite
-
-**Backend**
-
-* Node.js
-* Express
-
-**Database**
-
-* PostgreSQL
-* Supabase
-
-**Tools**
-
-* Git
-* GitHub
-* VS Code
-* Docker
 
