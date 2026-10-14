@@ -9,7 +9,7 @@
 
 - 🎓 Master's student in Computer Science
 - 💻 Interested in Full-Stack Development
-- 🌱 Currently learning TypeScript, Node.js, React, PostgreSQL, and Supabase
+- 🌱 Currently learning TypeScript..
 - 🤖 Interested in Artificial Intelligence and Cybersecurity
 - 📚 Always learning and building new projects
 
